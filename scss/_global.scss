@@ -1,0 +1,20 @@
+/* THESE ARE GLOBAL THINGS */
+
+html {
+   scroll-behavior: smooth;
+}
+
+body {
+   font-family: $fontstack;
+   background-color: $tertiery-color;
+   font-size: $base-font-size;
+}
+
+.wrapper {
+   max-width: 960px;
+   margin: 0 auto;
+}
+
+.fa-heart {
+   color: $tertiery-color;
+}

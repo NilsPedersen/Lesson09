@@ -1,3 +1,11 @@
+/* THIS FILE IS FOR IMPORTING ALL OTHER SCSS FOR EXPORT */
+
+@import "normalize";
 @import "variables";
+@import "global";
 @import "navbar";
+@import "header";
+@import "main";
+@import "footer";
+
 
